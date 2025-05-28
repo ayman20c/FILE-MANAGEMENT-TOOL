@@ -30,10 +30,10 @@ For my first task during the CodTech internship, I had to build a small project 
 🛠 Project Overview  
 This is a console-based program where the user gets a menu to choose from. Based on the choice, the program performs different file operations.
 
-⿡ *Write to File* – This option clears whatever content was already in the file and writes new content.  
-⿢ *Append to File* – This option adds new lines to the end of the file without deleting the old data.  
-⿣ *Read from File* – This reads all the text from the file and displays it line by line on the screen.  
-⿤ *Exit* – This simply exits the program.
+ *Write to File* – This option clears whatever content was already in the file and writes new content.  
+ *Append to File* – This option adds new lines to the end of the file without deleting the old data.  
+ *Read from File* – This reads all the text from the file and displays it line by line on the screen.  
+ *Exit* – This simply exits the program.
 
 The file name used in the project is my_file.txt. It is created or updated in the same folder where the code is executed. I used the fstream library and worked with ofstream, ifstream, and file modes like ios::app to implement these features.
  How I Learned It  

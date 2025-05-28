@@ -50,4 +50,7 @@ The program keeps running in a loop until the user selects the Exit option. I’
 This task helped me understand how files are handled in C++. I learned how to create a file, how to write and append data, and how to read it back using file streams. I also got better at using functions, loops, and conditions to make the code more organized and readable. Most importantly, I gained confidence in writing code on my own without direct help.
 
 
- *OUTPUT*: ![Image](https://github.com/user-attachments/assets/1e2cfd3b-882b-4cc7-92d0-f3d40c11ec0e)
+ ## OUTPUT
+ 
+ 
+ ![Image](https://github.com/user-attachments/assets/1e2cfd3b-882b-4cc7-92d0-f3d40c11ec0e)
